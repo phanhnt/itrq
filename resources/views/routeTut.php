@@ -1,0 +1,1 @@
+Xin chào, <?php echo $ten; ?> là tôi. 
